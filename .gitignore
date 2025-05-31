@@ -16,6 +16,10 @@ dist-ssr
 # Backend folder
 backend/
 
+
+# Firebase config
+firebaseConfig.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
