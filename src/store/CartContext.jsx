@@ -74,8 +74,6 @@ export function CartContextProvider({children}){
         removeItem
     }
 
-    console.log(cartCtx)
-
     return <CartContext value={cartCtx}>{children}</CartContext>
 }
 

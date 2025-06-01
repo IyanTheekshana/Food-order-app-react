@@ -11,7 +11,6 @@ export async function getAvailableMeals() {
   }
 
   const data = snapshot.val();
-  console.log(data);
   return Object.entries(data).map(([id, meal]) => ({ id, ...meal }));
 }
 
