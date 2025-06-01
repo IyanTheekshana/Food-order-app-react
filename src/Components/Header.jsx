@@ -2,7 +2,7 @@ import { useContext } from "react";
 import Button from "./UI/Button";
 import CartContext from "../store/CartContext";
 import UserProgressContext from "../store/UserProgressContext";
-
+import Logo from '../assets/logo.jpg'
 export default function Header(){
 
     const cartCtx = useContext(CartContext);
@@ -20,7 +20,7 @@ export default function Header(){
     return (
         <header id="main-header">
             <div id="title">
-                
+                <img src={Logo} alt="FOOD ORDERING" />
                 <h1>FOOD ORDERING</h1>
             </div>
             <nav>

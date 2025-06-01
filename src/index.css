@@ -282,3 +282,13 @@ h1 {
     transform: translateY(0);
   }
 }
+
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loading img{
+  width: 10%;
+}
