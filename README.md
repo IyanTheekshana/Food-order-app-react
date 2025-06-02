@@ -6,11 +6,6 @@ A simple, responsive food ordering application built with **React** and connecte
 
 👉 [Try the app here](https://react-food-ordering-app-iyan.netlify.app/)
 
-## 📸 Preview
-
-![App Preview](https://user-images.githubusercontent.com/your-screenshot-placeholder.png)  
-*(You can upload a screenshot to your repo and replace this link)*
-
 ---
 
 ## 🛠️ Tech Stack
